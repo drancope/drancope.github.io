@@ -1,3 +1,4 @@
+<style type="text/css">
 ul + p {
 		margin-top: 2em;
 		}
