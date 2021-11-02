@@ -1,9 +1,9 @@
 [Production view](https://drancope.github.io)
 <ul id="ProjectSubmenu">
-    <li><a href="../python-first-test/" title="Menu 1">Main</a></li>
-    <li><a href="../../drancope-clases" title="Basics">Basics</a></li>
-    <li><a  href= "../title="Documentation">Documentos</a></li>
-    <li><a href="../" title="vuelta">Vuelta</a></li>
+    <li><a href="https://github.com/drancope-clases" title="Repos">Repositorios en Clases</a></li>
+    <li><a  href= "https://github.com/drancope-clases/github-basico-drancope" title="Primeros pasos">GitHub básico</a></li>
+    <li><a href="https://github.com/drancope-clases/programar-con-python-drancope" title="Menu 1">Programar con Python</a></li>
+    <li><a href="https://drancope-clases.github.io" title="Repos">Blog de drancope-clases</a></li>
 </ul>
 # Computación y robótica
 ## 3º de ESO
